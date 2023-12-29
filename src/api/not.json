@@ -1,0 +1,104 @@
+
+
+{
+  "results": [
+    {
+      "image": "../../image/avatar-mark-webber.webp",
+      "name": "Mark Webber",
+      "notification": "reacted to your recent post",
+      "paperType": "My first tournament today!",
+      "paperTypeBoolen": true,
+      "notificationTime":"1m ago",
+      "notificationImage": "",
+      "notificationImageBoolen": false,
+      "notificationMessage": "",
+      "notificationMessageBoolen": false,
+      "notificationSpan": true,
+      "read": false
+    },
+    {
+      "image": "../../image/avatar-angela-gray.webp",
+      "name": "Angela Gray",
+      "notification": "followed you",
+      "paperType": "",
+      "paperTypeBoolen": false,
+      "notificationTime":"5m ago",
+      "notificationImage": "",
+      "notificationImageBoolen": false,
+      "notificationMessage": "",
+      "notificationMessageBoolen": false,
+      "notificationSpan": true,
+      "read": false
+    },
+    {
+      "image": "../../image/avatar-jacob-thompson.webp",
+      "name": "Jacob Thompson",
+      "notification": "has joined your group",
+      "paperType": "Chess Club",
+      "paperTypeBoolen": true,
+      "notificationTime":"1 day ago",
+      "notificationImage": "",
+      "notificationImageBoolen": false,
+      "notificationMessage": "",
+      "notificationMessageBoolen": false,
+      "notificationSpan": true,
+      "read": false
+    },
+    {
+      "image": "../../image/avatar-rizky-hasanuddin.webp",
+      "name": "Rizky Hasanuddin",
+      "notification": "sent you a private message",
+      "paperType": "Chess Club",
+      "paperTypeBoolen": true,
+      "notificationTime":"5 days ago",
+      "notificationImage": "",
+      "notificationImageBoolen": false,
+      "notificationMessage": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "notificationMessageBoolen": true,
+      "notificationSpan": false,
+      "read": true
+    },
+    {
+      "image": "../../image/avatar-kimberly-smith.webp",
+      "name": "Kimberly Smith",
+      "notification": "commented on your picture",
+      "paperType": "",
+      "paperTypeBoolen": false,
+      "notificationTime":"1 week ago",
+      "notificationImage": "../../image/image-chess.webp",
+      "notificationImageBoolen": true,
+      "notificationMessage": "",
+      "notificationMessageBoolen": false,
+      "notificationSpan": false,
+      "read": true
+    },
+    {
+      "image": "../../image/avatar-nathan-peterson.webp",
+      "name": "Nathan Peterson",
+      "notification": "reacted to your recent post",
+      "paperType": "5 end-game strategies to increase your win rate",
+      "paperTypeBoolen": true,
+      "notificationTime":"2 weeks ago",
+      "notificationImage": "",
+      "notificationImageBoolen": false,
+      "notificationMessage": "",
+      "notificationMessageBoolen": false,
+      "notificationSpan": false,
+      "read": true
+    },
+    {
+      "image": "../../image/avatar-anna-kim.webp",
+      "name": "Anna Kim",
+      "notification": " left the group",
+      "paperType": "Chess Club",
+      "paperTypeBoolen": true,
+      "notificationTime":"2 weeks ago",
+      "notificationImage": "",
+      "notificationImageBoolen": false,
+      "notificationMessage": "",
+      "notificationMessageBoolen": false,
+      "notificationSpan": false,
+      "read": true
+    }
+  ]
+}
