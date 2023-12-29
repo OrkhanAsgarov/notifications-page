@@ -1,14 +1,15 @@
 import React, { useEffect } from "react";
 import not from "../api/not.json";
 
-const NotificationHeader = ({ notificationNumber, setNotificationNumber }) => {
+const NotificationHeader = ({ notificationNumber, setNotificationNumber, clicked }) => {
   useEffect(() => {
+    setNotificationNumber(0);
     not.results.map((a) => {
       if (!a.read) {
         return setNotificationNumber((prev) => prev + 1);
       }
     });
-  }, []);
+  }, [clicked]);
 
   const handleMarkAll = () => {
     setNotificationNumber(0);

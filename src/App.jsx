@@ -12,6 +12,7 @@ function App() {
       <div className="w-full h-screen bg-[#f7fafd] flex flex-col justify-center items-center">
         <div className="relative sm:w-full sm:max-w-full md:w-[75%] md:max-w-[75%] lg:w-[45%] lg:max-w-[45%] h-full md:h-[80%] rounded-md bg-white px-5 shadow-xl shadow-black overflow-y-scroll no-scrollbar">
           <NotificationHeader
+            clicked={clicked}
             notificationNumber={notificationNumber}
             setNotificationNumber={setNotificationNumber}
           />

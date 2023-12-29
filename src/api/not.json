@@ -3,7 +3,7 @@
 {
   "results": [
     {
-      "image": "../../image/avatar-mark-webber.webp",
+      "image": "../image/avatar-mark-webber.webp",
       "name": "Mark Webber",
       "notification": "reacted to your recent post",
       "paperType": "My first tournament today!",
@@ -17,7 +17,7 @@
       "read": false
     },
     {
-      "image": "../../image/avatar-angela-gray.webp",
+      "image": "../image/avatar-angela-gray.webp",
       "name": "Angela Gray",
       "notification": "followed you",
       "paperType": "",
@@ -31,7 +31,7 @@
       "read": false
     },
     {
-      "image": "../../image/avatar-jacob-thompson.webp",
+      "image": "../image/avatar-jacob-thompson.webp",
       "name": "Jacob Thompson",
       "notification": "has joined your group",
       "paperType": "Chess Club",
@@ -45,7 +45,7 @@
       "read": false
     },
     {
-      "image": "../../image/avatar-rizky-hasanuddin.webp",
+      "image": "../image/avatar-rizky-hasanuddin.webp",
       "name": "Rizky Hasanuddin",
       "notification": "sent you a private message",
       "paperType": "Chess Club",
@@ -56,10 +56,10 @@
       "notificationMessage": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
       "notificationMessageBoolen": true,
       "notificationSpan": false,
-      "read": true
+      "read": false
     },
     {
-      "image": "../../image/avatar-kimberly-smith.webp",
+      "image": "../image/avatar-kimberly-smith.webp",
       "name": "Kimberly Smith",
       "notification": "commented on your picture",
       "paperType": "",
@@ -73,7 +73,7 @@
       "read": true
     },
     {
-      "image": "../../image/avatar-nathan-peterson.webp",
+      "image": "../image/avatar-nathan-peterson.webp",
       "name": "Nathan Peterson",
       "notification": "reacted to your recent post",
       "paperType": "5 end-game strategies to increase your win rate",
@@ -87,7 +87,7 @@
       "read": true
     },
     {
-      "image": "../../image/avatar-anna-kim.webp",
+      "image": "../image/avatar-anna-kim.webp",
       "name": "Anna Kim",
       "notification": " left the group",
       "paperType": "Chess Club",

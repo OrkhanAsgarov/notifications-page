@@ -6,7 +6,6 @@ const NotificationBody = ({ setClicked, setNotificationNumber }) => {
   const handleClick = (item) => {
     not.results.forEach((red, index) => {
       if (item == index) {
-        setNotificationNumber((prev) => prev - 1);
         setClicked(index);
         red.read = true;
       }
