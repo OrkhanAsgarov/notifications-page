@@ -22,13 +22,13 @@ function App() {
             setNotificationNumber={setNotificationNumber}
           />
         </div>
-      </div>
-      <div className="absolute bottom-0 right-0 px-10 cursor-pointer hover:text-[#080d1a]">
+      <div className="absolute max-md:hidden bottom-0 right-0 px-10 cursor-pointer hover:text-[#080d1a]">
         Challenge by{" "}
         <a  href="https://www.frontendmentor.io?ref=challenge" target="_blank">
           Frontend Mentor
         </a>
         . Coded by <a  href="#">Orkhan Asgarov</a>.
+      </div>
       </div>
     </>
   );
